@@ -1,0 +1,25 @@
+
+
+
+
+
+
+    1.gitbash install
+    2.Open Gitbash
+    3.git config --global user.name "phani"
+    4.git config --global user.email  "phani.komarapu@gmail.com"
+    5.Create Directory with mkdir
+    6.move into that folder by using cd directoryname 
+    7.git init
+    8.files creation by using touch command
+    9.git add .
+    10.git commit -m "Message"
+    11.git log
+    12.create github account
+    13.create github repository
+    14.Copy URL
+    15.git remote add aliasname URL
+    16.git push aliasname master
+   
+        github credentials ?? yes
+    17. GIT ----->GITHUB 
